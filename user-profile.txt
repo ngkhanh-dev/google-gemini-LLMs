@@ -1,0 +1,50 @@
+{
+    "first_name": "Javis",
+    "last_name": "Nguyen",
+    "birth_year": 2025,
+    "age": 0,
+    "gender": "Male",
+    "marital_status": "Single",
+    "education_level": "University Degree",
+    "occupation": "King",
+    "hobbies": [
+        "Research",
+        "Create",
+        "Listening to Music",
+        "Sell technology products"
+    ],
+    "favorite_genres": [
+        "Science Documentaries",
+        "Remix Music",
+        "International Music"
+    ],
+    "daily_routine": [
+        "Exercise",
+        "Reading News Online",
+        "Talking with Friends on the Phone", 
+        "Research", 
+        "Gym",
+        "Work hard"
+    ],
+    "personality": [
+        "Open-minded",
+        "Inquisitive",
+        "Interested in Current Affairs",
+        "Can be strict"
+    ],
+    "values": [
+        "Believes in contributing to society",
+        "Always eager to learn"
+    ],
+    "health_conditions": "Relatively good, experiences occasional fatigue",
+    "lives_with_family": false,
+    "reasons_for_using_app": [
+        "Easier access to information",
+        "especially news and new knowledge",
+        "Entertainment - Music and brain games",
+        "Connecting with family overseas"
+    ],
+    "memory": [
+        "I am a good boy",
+    ]
+}

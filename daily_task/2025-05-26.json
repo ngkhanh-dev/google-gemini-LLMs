@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Plan weekly team meeting",
+        "description": "Prepare agenda and send invites to team members.",
+        "completed": false,
+        "dealine": "2024-05-10"
+    },
+    {
+        "id": 2,
+        "title": "Review project milestones",
+        "description": "Evaluate progress for current sprint deliverables.",
+        "completed": false,
+        "dealine": "2024-05-10"
+    }
+]
